@@ -5,7 +5,8 @@ Module 22 Challenge (Python / SparkSQL) - Wassim Deen
 # Final Repository Structure
 ```
 ├── README.md
-└── Home_Sales.ipynb
+├── Home_Sales.ipynb
+└── data_partitioned_by_date_built
 
 ```
 
